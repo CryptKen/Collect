@@ -20,3 +20,9 @@
 
 ## Form Data
 {`apiKey` : `your api key`, `cryptken` : `sandbox_test_cryptken` }
+
+## Test API at
+`https://www.cryptken.com/api` ! login required
+
+## Result Display
+![image](https://user-images.githubusercontent.com/92026194/136188605-b807645b-bc9f-4eb4-af0e-9abdd5de285e.png)
